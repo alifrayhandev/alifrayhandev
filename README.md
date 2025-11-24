@@ -29,7 +29,7 @@ I am a passionate **Full-Stack Web Developer** specializing in the **MERN Stack 
 
 I'm always open to discussing web development projects, ideas, or collaboration opportunities.
 
-* 📧 **Email:** alifrayhanme@gmail.com
+* 📧 **Email:** alifrayhandev@gmail.com
 
 ---
 
