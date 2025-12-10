@@ -37,6 +37,7 @@ I'm always open to discussing web development projects, ideas, or collaboration 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alifrayhanme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alifrayhanme)  
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alifrayhandev&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alifrayhandev&theme=tokyonight)
+
 
 
