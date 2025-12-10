@@ -1,71 +1,6 @@
-<style>
-h1, h2 {
-  border-bottom: none !important;
-}
-.logo-style {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 4px 12px;
-    border-radius: 4px;
-    text-decoration: none !important;
-    font-weight: 500;
-    transition: all 0.3s ease;
-    border: none;
-    height: 32px;
-}
-.logo-style img {
-    height: 24px;
-}
-.typescript { background-color: #3178c6; color: white; }
-.javascript { background-color: #f7df1e; color: #333; }
-.html { background-color: #e34f26; color: white; }
-.css { background-color: #1572b6; color: white; }
-.bash { background-color: #333; color: white; }
-.react { background-color: #ffffff; color: #333; }
-.nextjs { background-color: #000; color: white; }
-.redux { background-color: #ffffff; color: #764abc; }
-.tailwindcss { background-color: #06b6d4; color: white; }
-.react-router { background-color: #ca4245; color: white; }
-.shadcn { background-color: #000; color: white; }
-.nodejs { background-color: #339933; color: white; }
-.express { background-color: #000; color: white; }
-.mongodb { background-color: white; color: #47a248; }
-.mysql { background-color: #4479a1; color: white; }
-.prisma { background-color: #2d3748; color: white; }
-.firebase { background-color: #ffca28; color: #333; }
-.git { background-color: #ffffff; color: #f05032; }
-.docker { background-color: #2496ed; color: white; }
-.figma { background-color: #f24e1e; color: white; }
-.postman { background-color: #ff6c37; color: white; }
-.netlify { background-color: #00c7b7; color: white; }
-.vercel { background-color: #000; color: white; }
-.email { background-color: white; color: #000; }
-.linkedin { background-color: #0077b5; color: white; }
-.twitter { background-color: #000; color: white; img{width: 32px; height: 32px} }
-.discord { background-color: #5865f2; color: white; }
-.markdown {
-    background-color: #111;
-    color: white;
-    img {
-        background: #fff;
-        border-radius: 2px;
-    }
-}
-.logo-style:hover {
-    transform: translateY(-2px);
-    opacity: 0.9;
-    text-decoration: none !important;
-    border: none;
-}
-.logo-style:focus {
-    text-decoration: none !important;
-    border: none;
-    outline: none;
-}
-</style>
+<!-- ![Cover Photo](https://tinyurl.com/ywe4fc4f) --> 
 
-# Hi there, I'm Alif Rayhan👋
+# Hi there, I'm Alif Rayhan 👋
 
 I'm a passionate **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. My focus is on creating clean, responsive, and highly user-friendly websites and applications.
 
@@ -87,163 +22,58 @@ I'm a passionate **Full-Stack Web Developer** specializing in the **MERN Stack (
 
 ### Languages:
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.typescriptlang.org/" target="_blank" class="logo-style typescript">
-    <img src="img/language/typescript.svg" alt="TypeScript" width="32" height="32">
-    <span>TypeScript</span>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="logo-style javascript">
-    <img src="img/language/javascript.svg" alt="JavaScript" width="32" height="32">
-    <span>JavaScript</span>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" class="logo-style html">
-    <img src="img/language/html.svg" alt="HTML" width="32" height="32">
-    <span>HTML</span>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" class="logo-style css">
-    <img src="img/language/css.svg" alt="CSS" width="32" height="32">
-    <span>CSS</span>
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" class="logo-style markdown">
-    <img src="img/language/markdown.svg" alt="Markdown" width="32" height="24">
-    <span>Markdown</span>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" class="logo-style bash">
-    <img src="img/language/bash.svg" alt="Shell Script" width="32" height="32">
-    <span>Shell Script</span>
-  </a>
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frontend Development:
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="https://react.dev/" target="_blank" class="logo-style react">
-    <img src="img/frontend/react.svg" alt="React" width="32" height="32">
-    <span>React</span>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" class="logo-style nextjs">
-    <img src="img/frontend/nextjs.svg" alt="Next.js" width="32" height="32">
-    <span>Next.js</span>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" class="logo-style redux">
-    <img src="img/frontend/redux.svg" alt="Redux" width="32" height="32">
-    <span>Redux</span>
-  </a>
-  <a href="https://reactrouter.com/" target="_blank" class="logo-style react-router">
-    <img src="img/frontend/react-router.svg" alt="React Router" width="32" height="32">
-    <span>React Router</span>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" class="logo-style tailwindcss">
-    <img src="img/frontend/tailwindcss.svg" alt="Tailwind CSS" width="32" height="32">
-    <span>Tailwind CSS</span>
-  </a>
-  <a href="https://ui.shadcn.com/" target="_blank" class="logo-style shadcn">
-    <img src="img/frontend/shadcn.svg" alt="Shadcn/ui" width="32" height="32">
-    <span>Shadcn/ui</span>
-  </a>
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend Development:
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="https://nodejs.org/" target="_blank" class="logo-style nodejs">
-    <img src="img/backend/nodejs.svg" alt="Node.js" width="32" height="32">
-    <span>Node.js</span>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" class="logo-style express">
-    <img src="img/backend/express.svg" alt="Express.js" width="32" height="32">
-    <span>Express.js</span>
-  </a>
-    <a href="https://nextjs.org/" target="_blank" class="logo-style nextjs">
-    <img src="img/frontend/nextjs.svg" alt="Next.js" width="32" height="32">
-    <span>Next.js</span>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" class="logo-style firebase">
-    <img src="img/backend/firebase.svg" alt="Firebase" width="32" height="32">
-    <span>Firebase</span>
-  </a>
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Database:
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.mongodb.com/" target="_blank" class="logo-style mongodb">
-    <img src="img/database/mongodb.svg" alt="MongoDB" width="32" height="32">
-    <span>MongoDB</span>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" class="logo-style mysql">
-    <img src="img/database/mysql.svg" alt="MySQL" width="32" height="32">
-    <span>MySQL</span>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" class="logo-style prisma">
-    <img src="img/database/prisma.svg" alt="Prisma" width="32" height="32">
-    <span>Prisma</span>
-  </a>
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Tools & Technologies:
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="https://git-scm.com/" target="_blank" class="logo-style git">
-    <img src="img/tools/git.svg" alt="Git" width="32" height="32">
-    <span>Git</span>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" class="logo-style postman">
-    <img src="img/tools/postman.svg" alt="Postman" width="32" height="32">
-    <span>Postman</span>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" class="logo-style netlify">
-    <img src="img/tools/netlify.svg" alt="Netlify" width="32" height="32">
-    <span>Netlify</span>
-  </a>
-  <a href="https://vercel.com/" target="_blank" class="logo-style vercel">
-    <img src="img/tools/vercel.svg" alt="Vercel" width="32" height="32">
-    <span>Vercel</span>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" class="logo-style docker">
-    <img src="img/tools/docker.svg" alt="Docker" width="32" height="32">
-    <span>Docker</span>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" class="logo-style figma">
-    <img src="img/tools/figma.svg" alt="Figma" width="32" height="32">
-    <span>Figma</span>
-  </a>
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Connect with Me:
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="mailto:alifrayhandev@gmail.com" target="_blank" class="logo-style email">
-    <img src="img/connect/email.svg" alt="Email" width="32" height="32">
-    <span>Email</span>
-  </a>
-  <a href="https://linkedin.com/in/alifrayhandev" target="_blank" class="logo-style linkedin">
-    <img src="img/connect/linkedin.svg" alt="LinkedIn" width="32" height="32">
-    <span>LinkedIn</span>
-  </a>
-  <a href="https://twitter.com/alifrayhandev" target="_blank" class="logo-style twitter">
-    <img src="img/connect/twitter.jpg" alt="Twitter" width="32" height="32">
-    <span>Twitter</span>
-  </a>
-  <a href="https://discord.gg/mkEHmCZf" target="_blank" class="logo-style discord">
-    <img src="img/connect/discord.svg" alt="Discord" width="32" height="32">
-    <span>Discord</span>
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifrayhandev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alifrayhandev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alifrayhandev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mkEHmCZf)
 
+<details>
+<summary>You wanna know more about me?</summary>
 
-<details style="margin-top: 30px;">
-
-
-<summary>
-  You wanna know more about me?
-</summary>
-
-<br >
+<br>
 
 A lifelong learner with a passion for technology and discovery. I love exploring new ideas, solving problems, and constantly improving myself.
 
-Outside of coding, I’m also a Math teacher. Teaching math allows me to inspire curiosity, simplify complex concepts, and help students develop problem-solving skills that extend beyond the classroom. Sharing knowledge and seeing others grow is one of my greatest joys.
+Outside of coding, I'm also a Math teacher. Teaching math allows me to inspire curiosity, simplify complex concepts, and help students develop problem-solving skills that extend beyond the classroom. Sharing knowledge and seeing others grow is one of my greatest joys.
 
 Curious, motivated, and always ready to take on new challenges.
 
