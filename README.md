@@ -71,11 +71,9 @@ I'm a passionate **Full-Stack Web Developer** specializing in the **MERN Stack (
 
 <br>
 
-A lifelong learner with a passion for technology and discovery. I love exploring new ideas, solving problems, and constantly improving myself.
-
-Outside of coding, I'm also a Math teacher. Teaching math allows me to inspire curiosity, simplify complex concepts, and help students develop problem-solving skills that extend beyond the classroom. Sharing knowledge and seeing others grow is one of my greatest joys.
-
-Curious, motivated, and always ready to take on new challenges.
+Curious mind, lifelong learner, and someone who loves exploring new technologies.
+When I’m not coding, I’m teaching Math—helping students think smarter and enjoy problem-solving.
+Always improving. Always learning. Always building.
 
 #### Github Stats
 
